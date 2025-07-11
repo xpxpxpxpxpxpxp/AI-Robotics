@@ -102,5 +102,5 @@ This framework introduces a fundamentally new way for robots to learn: self-expl
 ---
 
 **License:** No license is offered at this time; all rights reserved.  
-**Author:** [Your Name]  
-**Date:** [Initial Commit Date]
+**Author:** Xander Phoenix
+**Date:** July 11, 2025
