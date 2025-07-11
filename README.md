@@ -15,3 +15,5 @@ This repository introduces a novel architecture for fully agentic, self-discover
 4. Test chaining and evaluation loops.
 5. Start human labeling and language expansion.
 
+## License
+No license is offered at this time. All rights reserved.
